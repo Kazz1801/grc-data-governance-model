@@ -18,3 +18,5 @@ Regulation → Risk → Control → Activity
 - Business rules
 - Data lineage
 - Sample dataset
+## Description
+- GRC data model project with ERD, data governance artifacts, and AML banking use case
